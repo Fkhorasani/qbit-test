@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "twitter",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "img": "insta",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "img": "youtube",
+    "link": ""
+  },
+  {
+    "id": 4,
+    "img": "linkedin",
+    "link": ""
+  },
+  {
+    "id": 5,
+    "img": "phone",
+    "link": "tel:081362756473"
+  },
+  {
+    "id": 6,
+    "img": "discord",
+    "link": ""
+  },
+  {
+    "id": 7,
+    "img": "tiktok",
+    "link": ""
+  },
+  {
+    "id": 8,
+    "img": "email",
+    "link": "mailto:qbitmotor@gmail.com"
+  }
+]

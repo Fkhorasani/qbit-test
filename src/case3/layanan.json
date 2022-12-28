@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "growth",
+        "title": "Tune Up Injeksi",
+        "desc": "Tune up motor perlu dilakukan untuk mengembalikan performa kendaraan seperti standarnya, Perubahan komponen mesin biasanya terjadi karena kendaraan digunakan saat hujan dan panas. Hal ini membuat motor perlu mendapatkan perawatan maksimal secara berkala. Sementara itu, filter udara yang kotor dapat menghambat aliran udaranya."
+    },
+    {
+        "id": 2,
+        "img": "support",
+        "title": "Bongkar Pasang Mesin",
+        "desc": "Bongkar mesin meliputi pelepasan silinder head dan kepala silinder, serta melepas magnet pada bak mesin bagian kiri, pelepasan komponen kopling dan sistem pompa oli. Pengerjaannya meliputi pembersihan kerak pada ruang bakar, pembersihan sistem aliran bahan bakar dan pelumasan, kerak oli yang berada di dinding mesin juga harus dibersihkan dengan cairan bersih."
+    },
+    {
+        "id": 3,
+        "img": "gears",
+        "title": "Bore Up",
+        "desc": "Bore up adalah modifikasi yang dilakukan untuk meningkatkan diameter piston bawaan dari pabrikan. Nantinya piston akan memiliki ukuran yang lebih besar. Tujuan bore up adalah kecepatan kendaraan akan jauh lebih baik, tenaga bawah jadi lebih responsif karena performa akselerasi motor jadi meningkat, suara yang lebih padat."
+    },
+    {
+        "id": 4,
+        "img": "upgrade",
+        "title": "Upgrade CVT",
+        "desc": "Pada motor matic, salah satu ubahan yang dapat meningkatkan performa adalah upgrade CVT. Upgrade CVT adalah mengubah dan mengganti komponen di bagian dalam CVT. Ubahan yang dilakukan biasanya membubut bagian kipas pulley, rumah roller, dan mangkok kopling. Sedangkan part yang diganti biasanya adalah Per CVT Racing dan Roller Racing."
+    },
+    {
+        "id": 5,
+        "img": "paint",
+        "title": "Carbon Wtp",
+        "desc": "Carbon wtp adalah solusi untuk bikin detail motor jadi makin ciamik. carbon wtp bisa diaplikasi untuk bahan bodi plastik dengan basis PP. Seperti bagian dek skubek yang lentur dan bahan ABS yang buat cover bodi utama hingga pelat besi."
+    },
+    {
+        "id": 6,
+        "img": "motor",
+        "title": "Repaint Body",
+        "desc": "Mengecat ulang alias repaint body tetap menjadi cara yang paling ampuh untuk membuat tampilan motor jadi baru lagi. Apalagi kalau umur motor sobat sudah agak uzur, warna body panel yang sudah mulai kusam pasti jadi cerah kembali."
+    }
+]
